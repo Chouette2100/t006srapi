@@ -15,13 +15,13 @@
 
 	$ cd ~/go/src
 
-	$ curl -OL https://github.com/Chouette2100/t006srapi/archive/refs/tags/v0.0.0.tar.gz
-	$ tar xvf v0.0.0.tar.gz
-	$ mv t006srapi-0.0.0 t006srapi
+	$ curl -OL https://github.com/Chouette2100/t006srapi/archive/refs/tags/v0.1.0.tar.gz
+	$ tar xvf v0.1.0.tar.gz
+	$ mv t006srapi-0.1.0 t006srapi
 	$ cd t006srapi
 
-	以上4行は、Githubからソースをダウンロードしてます。v0.0.0のところは、ソースのバージョンを指定します。
-	バージョンは、Githubのリリースページで確認してください（当面 v0.0.0 のままにしておくつもりです）
+	以上4行は、Githubからソースをダウンロードしてます。v0.1.0のところは、ソースのバージョンを指定します。
+	バージョンは、Githubのリリースページで確認してください。
 	
 	ダウンロードはどんな方法でも構わなくて、 とくにWindowsの場合、以上の操作はGUIを使った方が簡単です。
 
