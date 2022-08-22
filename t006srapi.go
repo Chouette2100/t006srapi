@@ -35,9 +35,9 @@ import (
 
 	$ cd ~/go/src
 
-	$ curl -OL https://github.com/Chouette2100/t006srapi/archive/refs/tags/vn.n.n.tar.gz
-	$ tar xvf vn.n.n.tar.gz
-	$ mv t006srapi-n.n.n t006srapi
+	$ curl -OL https://github.com/Chouette2100/t006srapi/archive/refs/tags/v0.0.0.tar.gz
+	$ tar xvf v0.0.0.tar.gz
+	$ mv t006srapi-0.0.0 t006srapi
 	$ cd t006srapi
 
 		以上4行は、Githubからソースをダウンロードしてます。vn.n.nのところは、ソースのバージョンを指定します。
